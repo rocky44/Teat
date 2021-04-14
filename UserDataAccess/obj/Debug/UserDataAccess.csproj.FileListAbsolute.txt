@@ -1,0 +1,11 @@
+C:\Users\RockyKumar\source\repos\WebAPIDEMO\UserDataAccess\bin\Debug\UserDataAccess.dll.config
+C:\Users\RockyKumar\source\repos\WebAPIDEMO\UserDataAccess\bin\Debug\UserDataAccess.dll
+C:\Users\RockyKumar\source\repos\WebAPIDEMO\UserDataAccess\bin\Debug\UserDataAccess.pdb
+C:\Users\RockyKumar\source\repos\WebAPIDEMO\UserDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\RockyKumar\source\repos\WebAPIDEMO\UserDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RockyKumar\source\repos\WebAPIDEMO\UserDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\RockyKumar\source\repos\WebAPIDEMO\UserDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RockyKumar\source\repos\WebAPIDEMO\UserDataAccess\obj\Debug\UserDataAccess.csprojAssemblyReference.cache
+C:\Users\RockyKumar\source\repos\WebAPIDEMO\UserDataAccess\obj\Debug\UserDataAccess.csproj.CopyComplete
+C:\Users\RockyKumar\source\repos\WebAPIDEMO\UserDataAccess\obj\Debug\UserDataAccess.dll
+C:\Users\RockyKumar\source\repos\WebAPIDEMO\UserDataAccess\obj\Debug\UserDataAccess.pdb
